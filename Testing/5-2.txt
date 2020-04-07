@@ -1,0 +1,30 @@
+
+
+ O            12 spaces            1 space + O + 12 spaces
+/|\ 
+ |       ___||
+ |    ___|***|                       
+/ \___|******| 14 characters total   3+ 5 + 3*stair height
+
+
+_
+
+    O                              4 spaces + O + 9 spaces
+   /|\ 
+    | 
+    |    ___||
+   / \___|***|
+   ___|******|
+
+
+
+       O                   7 spaces + O + 6 spaces
+      /|\ 
+       | 
+       | 
+      / \___||
+      ___|***|
+   ___|******|
+
+
+
